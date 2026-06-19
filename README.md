@@ -12,15 +12,12 @@
 <h2>Dashboard</h2>
 <table>
   <tr>
+    <td><img src="https://github.com/user-attachments/assets/96322168-cc0c-489a-ab8d-c0769aeeb685" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/fcb9e50b-0da1-4163-ae19-e4a05563d70a" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/ff3f0178-5a2b-40e5-b1a2-41cac66884f4" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/a901c53d-1dc3-4d7a-9178-18afaec357f1" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/96322168-cc0c-489a-ab8d-c0769aeeb685" width="200"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/111e2355-1cec-4c63-8143-aa1e1c46cebb" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/e2f5258c-f5b2-489d-90b5-d299acb2c695" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/96322168-cc0c-489a-ab8d-c0769aeeb685" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/111e2355-1cec-4c63-8143-aa1e1c46cebb" width="200"></td>
   </tr>
 </table>
@@ -50,7 +47,7 @@
 <h2>Call Consultation</h2>
 <table>
   <tr>
-<td><img width="1084" height="2412" alt="Screenshot_20260611-174732" src="https://github.com/user-attachments/assets/6b0811d2-b9cc-41da-b123-b4a06f751e76" /></td>
+        <td><img width="1084" height="2412" alt="Screenshot_20260611-174453" src="https://github.com/user-attachments/assets/3b0875f9-d168-4897-87b9-71e4a8d5427e" /></td>
 <td><img width="1084" height="2412" alt="Screenshot_20260611-174720" src="https://github.com/user-attachments/assets/ab38d11b-41c7-4a88-9d27-86d22cf7fe58" /></td>
 <td><img width="1084" height="2412" alt="Screenshot_20260611-174547" src="https://github.com/user-attachments/assets/5ebe82ef-b455-4dba-8d3c-d822d5de1732" /></td>
 <td><img width="1084" height="2412" alt="Screenshot_20260611-174458" src="https://github.com/user-attachments/assets/901acf1b-a877-4864-9493-f36d39266c53" /></td>
@@ -58,6 +55,6 @@
 
   </tr>
   <tr>
-    <td><img width="1084" height="2412" alt="Screenshot_20260611-174453" src="https://github.com/user-attachments/assets/3b0875f9-d168-4897-87b9-71e4a8d5427e" /></td>
+<td><img width="1084" height="2412" alt="Screenshot_20260611-174732" src="https://github.com/user-attachments/assets/6b0811d2-b9cc-41da-b123-b4a06f751e76" /></td>
   </tr>
 </table>
